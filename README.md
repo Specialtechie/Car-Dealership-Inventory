@@ -1,6 +1,8 @@
  # Car Dealership Inventory Tracker
 **Overview**
+
 The Car Dealership Inventory Tracker is a Python-based application that allows car dealerships to manage their inventory efficiently. The system supports adding, removing, searching, and marking cars as sold. The application is built using Tkinter for the graphical user interface and CSV for data storage.
+
 **Features**
 **Add Cars:** Users can add new cars to the inventory with details such as Make, Model, Year, Price, and Status.
 **Remove Cars:** Cars can be removed from the inventory based on their model.
